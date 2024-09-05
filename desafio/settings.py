@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/5.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
 """
-#token adm : fd806291a80b94f7d9c2ee8b6b360041bf97a49d
+#token adm : fd806291a80b94f7d9c2ee8b6b360041bf97a49d<EXCLUIDA -HAHAHA>
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
